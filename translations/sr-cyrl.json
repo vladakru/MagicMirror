@@ -1,0 +1,35 @@
+{
+	"LOADING": "Учитавање &hellip;",
+
+	"TODAY": "Данас",
+	"TOMORROW": "Сутра",
+	"DAYAFTERTOMORROW": "Прекосутра",
+	"RUNNING": "Завршава се за",
+	"EMPTY": "Нема догађаја.",
+
+	"WEEK": "Недеља {weekNumber}",
+
+	"N": "N",
+	"NNE": "NNE",
+	"NE": "NE",
+	"ENE": "ENE",
+	"E": "E",
+	"ESE": "ESE",
+	"SE": "SE",
+	"SSE": "SSE",
+	"S": "S",
+	"SSW": "SSW",
+	"SW": "SW",
+	"WSW": "WSW",
+	"W": "W",
+	"WNW": "WNW",
+	"NW": "NW",
+	"NNW": "NNW",
+
+	"UPDATE_NOTIFICATION": "MagicMirror² доступна надоградња.",
+	"UPDATE_NOTIFICATION_MODULE": "Доступна надоградња за {MODULE_NAME} модул.",
+	"UPDATE_INFO_SINGLE": "Тренутна инсталација је {COMMIT_COUNT} commit behind on the {BRANCH_NAME} branch.",
+	"UPDATE_INFO_MULTIPLE": "Тренутна инсталација је {COMMIT_COUNT} commits behind on the {BRANCH_NAME} branch.",
+	
+	"FEELS": "Осећај"
+}
